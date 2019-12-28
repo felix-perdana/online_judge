@@ -1,0 +1,8 @@
+Atom notes:
+
+* Windows
+ctrl + , for opening settings to install some packages. Example: installing atom-python-run.
+
+compile python:
+1) install "script"
+2) ctrl + shift + b for compiling python

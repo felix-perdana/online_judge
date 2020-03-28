@@ -8,6 +8,7 @@ class Solution:
             if elem not in usedNumbers:
                 usedNumbers.add(elem)
                 triplets = self.getTriplets(i, nums, -elem, ans)
+        print "hello"
         return ans
 
 

@@ -6,3 +6,8 @@ ctrl + , for opening settings to install some packages. Example: installing atom
 compile python:
 1) install "script"
 2) ctrl + shift + b for compiling python
+
+* Mac
+run python:
+1) install "script"
+2) command + I

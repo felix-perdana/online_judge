@@ -20,4 +20,4 @@ class Solution:
               if friend not in seen:
                   queue.append((friend, depth+1))
 
-      return sorted(ans, key = lambda x: (ans[id], id))
+      return sorted(ans, key = lambda x: (ans[x], x))
